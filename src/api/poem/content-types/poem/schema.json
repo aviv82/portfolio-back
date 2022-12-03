@@ -24,7 +24,7 @@
     "line": {
       "displayName": "line",
       "type": "component",
-      "repeatable": false,
+      "repeatable": true,
       "component": "lines.line"
     }
   }
