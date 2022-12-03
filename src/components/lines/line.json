@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_lines_lines",
+  "info": {
+    "displayName": "line",
+    "icon": "align-left",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    }
+  }
+}
